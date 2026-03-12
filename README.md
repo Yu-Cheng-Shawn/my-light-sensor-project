@@ -5,7 +5,7 @@ High school self-learning project using Python + OpenCV / Arduino.
 Demonstrates problem-solving and engineering thinking for NTUST IICT & NTUT Engineering Tech.
 Add OpenCV image recognition project + screenshots
 ## 完整可執行程式碼
-- Google Colab 即時運行版（無需安裝）：  
+- Google Colab 即時運行版：  
   [點我開啟 Colab]
 
 ## 專案檔案
